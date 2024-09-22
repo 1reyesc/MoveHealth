@@ -1,23 +1,25 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
+# Move Health
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+Move Health is the premier healthcare insurance planning firm utilized by forward-thinking financial advisors and their clients across the country. This project's aim is to create a web application that can assist many different users in this domain. These target users include, but are not limited to, Financial Advisors, Clients of Financial Advisors, and Health Plan Advisors. 
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Cyarina Amatya
+- Mia Lacey
+- Tobi Lott
+- Caleb Reyes
+- Solomon Siang
 
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+Move Health
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- R. Cole Craven
+
 
 ## **Links**
 
@@ -25,11 +27,9 @@ WHATEVER COMPANY or CORRESPONDENCE
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- ... any other documents/links you see need
+
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.github.com/WHEREEVER_THE_ANDROID_CODE_IS/)
-- [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
-- Others if more.
+
 
