@@ -8,7 +8,7 @@
 
 
 # Non-functional Requirements
-* The system will have daily limits for its use. (NR2) (Low)
-* The system will only accept prompts and documents relating to health insurance planning. (NR3) (High)
-* If the user uploads a document that is not related to health insurance planning, it will notify the user and not. (NR4) (High)
+* The system will have daily limits for its use. (NR1) (Low)
+* The system will only accept prompts and documents relating to health insurance planning. (NR2) (High)
+* If the user uploads a document that is not related to health insurance planning, it will notify the user and not. (NR3) (High)
 
