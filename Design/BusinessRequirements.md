@@ -10,5 +10,5 @@
 **Bring customers an inviting and friendly product that is not difficult to utilize and provides valuable information.**
 - [BR2]
 - It has been established that the client would like to tend to the demographic of user that is utlizing the product. 
-  With that we would like to deliver something that creates a inviting space for the user where they can thrive in using the product. 
+  With that we would like to deliver something that creates a inviting space for the user where they can thrive in using the service. 
   We believe that this is a business requirement because if we can achieve our goal of improving accessibility for the client they are more likely to refer someone     or come back to use the service again.
