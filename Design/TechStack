@@ -4,7 +4,7 @@ This is an outline of the tech stack chosen for the **Move Health Platform** and
 
 ## Frontend
 
-**Frameworks** - **React**
+**_Frameworks_.** - **React**
 
 React is a widely-used JavaScript library for building interactive and responsive user interfaces for single-page applications. It was chosen due to its modular component-based architecture, which allows for efficient development and reusability of UI components. Additionally, React’s ecosystem has strong community support and numerous libraries that can be easily integrated into the project.
 
