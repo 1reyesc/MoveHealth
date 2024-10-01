@@ -80,4 +80,5 @@ The platform supports three types of users:
 - **User** can be a **Financial Advisor**, **Health Plan Advisor**, or a **Client**.
 - **Financial Advisors**, **Health Plan Advisors**, and **Clients** all interact with the **AITool** for document summarization.
 
-### Diagram
+###  Domain Model Diagram
+<img width="533" alt="image" src="https://github.com/user-attachments/assets/1919ba61-6e97-4269-af45-a0bf594d3a18">
