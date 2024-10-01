@@ -37,7 +37,3 @@ GitHub is used for version control and collaboration. It facilitates seamless te
 **Email Service** - **Postmark**  
 **Scheduling** - **cal.com**
 
-Postmark handles transactional emails such as user onboarding and password resets, ensuring reliable email delivery. cal.com is integrated to manage appointments and consultations, allowing clients and advisors to schedule meetings directly from the platform.
-# This is an H1 header (Main Title)
-## This is an H2 header (Section Title)
-### This is an H3 header (Subsection Title)
