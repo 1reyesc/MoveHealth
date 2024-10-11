@@ -1,21 +1,13 @@
 **TO-DO**
 
-**_Card 1_.** **Upload PDF File (FR1)**
+**_Card 1_.** **Upload PDF File**
    
-   Description: The system will allow a PDF file to be uploaded. This feature is critical for users to submit their health insurance documents.
+   Description: The system will allow a PDF file to be uploaded.
    
-**_Card 2_.** **PDF Summary (FR2)**
+**_Card 2_.** **AI Chatbox**
    
-   Description: The system will provide a summary of the uploaded PDF file. This functionality will help users quickly understand the content of their documents
+   Description: The system will have an AI chatbox appear once a user uploads a pdf file.
    
-**_Card 3_.** **Answer Questions (FR3)**
+**_Card 3:_** **Admin Dashboard**
    
-   Description: The system will be able to answer questions or take prompts related to the uploaded document(s). This will enhance user engagement and provide valuable information.
-   
-**_Card 4_.** **Health Insurance Prompts (NR3)**
-   
-   Description: The system will only accept prompts and documents relating to health insurance planning. This requirement ensures the relevance of the content processed by the system.
-   
-**_Card 5:_** **Notify on Incorrect Upload (NR4)**
-   
-   Description: If the user uploads a document that is not related to health insurance planning, the system will notify the user. This feature will prevent confusion and improve user experience.
+   Description: Admins will be able to see documents and prompts given by users.
