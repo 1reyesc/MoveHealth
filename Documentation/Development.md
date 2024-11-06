@@ -1,7 +1,6 @@
 # Environment Replication Manual
-# Environment Variables
-- Windows OS
-- VSCode as Text Editor
+# Text Editor Used
+- VSCode
 # Backend Dependencies 
 ### Ruby 3.0
 -  You can install ruby using this installer: https://rubyinstaller.org/downloads/archives/
@@ -44,6 +43,7 @@
 - To locate the path you will need to locate your Curl folder that you installed.
 - Inside of it you will need to note the path to the lib folder and paste that into the first placeholder path
 - Next you will need to note the path to the include folder and paste that into the second placeholder path
+- <img src="https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/bininclude.png" width="350">  
 - After getting the correct paths setup you can run the command
 - It might take a while which is normal
 
@@ -52,12 +52,17 @@
 - This will install all the other dependencies for this project
 
 ## Running dev
+**For Windows OS ONLY**
 - Before you can start up the rails application you will need to do a command: npm run dev
 - To successfully run this command you will need to do two things
 - First, locate the package.json file
 - Once located find scripts and in the "dev" row you want to make sure it is: "cross-env NODE_OPTIONS=--openssl-legacy-provider bin/webpack-dev-server"
 - <img src="https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/crossenv.png" width="350">  
 - Second, run this command in the terminal: yarn add cross-env --dev
+- Then in the Terminal run: npm run dev
+  
+ **ON MAC**
+- Just run this command in the Terminal: yarn
 - Let it run and then run the command: npm run dev
 
 ## Setting up Database
@@ -68,11 +73,17 @@
 - Once you have PostgreSQL installed and you have the move_development folder you will need to import the database and connect the project to it
 - Open up pgAdmin 4 app through Windows
 - Once open you can right click Databases and create a new one called move_development
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/createdb.png" width="350">
 - Once created right click move_development and click Query Tool
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/querytool.png" width="350">
 - In top left you will find a file opener click it
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/openfile.png" width="350">
 - It will open up a file explorer you will need to locate the move_development folder 
 - Once located open it up and select the move_development file
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/movedevfile.png" width="350">
 - Once loaded in you can click on the play button and it will run the script
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/runscript.png" width="350">
+
 
 
 ## Running Rails
@@ -84,6 +95,8 @@
 -  Then add the local_DATABASE_PASSWORD variable and set it to your Database Password
 -  After that you can run command: npm run rails
 -  Go to localhost:3000 and you should be able to view the webapp
+-  Once you reach this page you're all set!
+-  <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/movehealth.png" width = "350">
   
 
 
