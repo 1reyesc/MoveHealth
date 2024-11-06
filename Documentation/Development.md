@@ -32,6 +32,8 @@
 - Download from here: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 - Find the most recent version and install the Windows x86-64 one
 - Follow the install wizard.
+- You will need to keep track of the password you create to open your server
+- Set the Port to 5432
 - Once you reach Stackbuilder you can cancel out and stop.
 
 # Next Steps
@@ -54,12 +56,13 @@
 - To successfully run this command you will need to do two things
 - First, locate the package.json file
 - Once located find scripts and in the "dev" row you want to make sure it is: "cross-env NODE_OPTIONS=--openssl-legacy-provider bin/webpack-dev-server"
+- <img src="https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/crossenv.png" width="350">  
 - Second, run this command in the terminal: yarn add cross-env --dev
 - Let it run and then run the command: npm run dev
 
 ## Setting up Database
 ### Things needed
--  move_development folder containg sql for importing database
+-  move_development folder containing the sql script for importing database
 -  PostgreSQL installed
 ### Steps
 - Once you have PostgreSQL installed and you have the move_development folder you will need to import the database and connect the project to it
@@ -74,7 +77,13 @@
 
 ## Running Rails
 -  Once you imported the database you will now need to point it in your database.yml file in the config folder of the project
--  Make sure it looks like this: <img src="https://github.com/user-attachments/assets/eaa8fbc8-96ff-43aa-9f8a-00c67592b8f2](https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/databaseyml.png)" width="350">  
+-  Make sure it looks like this:
+-  <img src="https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/databaseyml.png" width="350">  
+- Create a .env file in your root:
+- <img src="https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/env.png" width="350">  
+-  Then add the local_DATABASE_PASSWORD variable and set it to your Database Password
+-  After that you can run command: npm run rails
+-  Go to localhost:3000 and you should be able to view the webapp
   
 
 
