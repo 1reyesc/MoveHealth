@@ -27,6 +27,7 @@ Move Health
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [Iteration 2 Development Goals](https://github.com/1reyesc/MoveHealth/blob/c984758eaa23f3162a22c765964cdc5ea2f34a93/Iteration%202%20(To-Do).md)
 
 
 ## **Code Repositories**
