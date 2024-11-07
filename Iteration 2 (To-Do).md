@@ -5,7 +5,6 @@
    - **Description**: This feature will introduce an intuitive onboarding flow that automatically guides users through the initial setup process. By providing clear, step-by-step guidance, it helps users understand the primary platform functions from the start. Key aspects include:
       - **Welcome Screen**: A brief overview of the platform’s main benefits and a "Get Started" button.
       - **Setup Checklist**: An interactive checklist to introduce users to important steps (e.g., uploading documents, navigating the chatbox, accessing summaries).
-      - **Progress Indicators**: Visual indicators to show how far users are in the onboarding process.
    - **Outcome**: With this feature, first-time users will be empowered to navigate the platform independently, enhancing user satisfaction and reducing onboarding time.
 
 #### 2. **First-Time User Tips**
