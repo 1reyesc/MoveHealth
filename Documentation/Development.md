@@ -44,8 +44,14 @@
 - Inside of it you will need to note the path to the lib folder and paste that into the first placeholder path
 - Next you will need to note the path to the include folder and paste that into the second placeholder path
 - <img src="https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/bininclude.png" width="350">  
-- After getting the correct paths setup you can run the command
+- After getting the correct paths setup you can run the command with your correct paths: 
 - It might take a while which is normal
+- Next you'll want to navigate to where your ruby folder is. The default path is usually "C:\Ruby30-x64"
+- Next locate your curl folder that you downloaded a few steps ago
+- Locate the libcrulx64.dll file and copy it
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/libcurl.png" width = "350">
+- Next you'll want to find the bin folder in your ruby folder and paste the dll file into there
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/rubybin.png" width = "350">
 
 ## Bundle Install
 - After successfully installing curb, in the Terminal you can run: bundle install
@@ -83,7 +89,7 @@
 - <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/movedevfile.png" width="350">
 - Once loaded in you can click on the play button and it will run the script
 - <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/runscript.png" width="350">
-
+- Curl should be all set after that
 
 
 ## Running Rails
