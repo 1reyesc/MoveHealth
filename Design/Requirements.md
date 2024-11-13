@@ -3,10 +3,14 @@
 * The system will have a button to click to start the upload process (FR1) (High) (UC1)
 * The system will allow only pdf files to be uploaded. (FR2) (High) (UC1)
 * Users will upload the file from their hard drive. (FR3) (High) (UC1)
+* The system will have a loading bar during upload (FR4) (Low) (UC1)
+* The system will store the file in the database (FR5) (Med) (UC1)
 ## Non-functional Requirements
 * The system will only accept prompts and documents relating to health insurance planning. (NR1) (High) (UC5)
 * If the user uploads a document that is not related to health insurance planning, it will notify the user. (NR2) (High) (UC5)
 * Error will be thrown if the user tries to upload non-pdf document. (NR3) (HIGH) (UC1)
+* The system should be able to process files up to 10MB in size (NR4) (Med) (UC1).
+* The system will notify users of a succesful upload (NR5) (Med) (UC1)
 # AI Chatbox:
 ## Functional Requirements
 * The system will take a pdf as input. (FR1) (High) (UC2)
@@ -17,14 +21,19 @@
 ## Non-functional Requirements
 * The system will have daily limits for its use. (NR1) (Low) (UC5)
 * The system will only answer prompts based on the pdf provided. (NR2) (HIGH) (UC3)
-* The system will only be started after a pdf has been uploaded. (NR2) (HIGH) (UC3)
+* The system will only be started after a pdf has been uploaded. (NR3) (HIGH) (UC3)
+* The system will have a response time of less than 5 seconds after a prompt is given (NR4) (Med) (UC3)
+* The system will store the conversation. (NR5) (Low) (UC3)
 # Analysis Dashboard:
 ## Functional Requirements:
 * The system will have a dashboard with a history of previous analyses created. (FR1) (Med) (UC5)
 * Users will be able to click on an analysis and review the contents. (FR2) (Med) (UC5)
 * Users will be able to delete analyses they don't want. (FR3) (Med) (UC5)
 * Users will be able to create new analyses. (FR4) (HIGH) (UC5)
+* The system will provide search and filter options to locate specific analyses quickly (NR5) (Med) (UC5)
 ## Non-functional Requirements: 
 * Can only be accessed by the user. (NR1)(HIGH)(UC5)
 * There will be a limit to how many analyses can be saved at a time. (NR2)(Med)(UC5)
+* After creating a new analysis if the max amount of stored analysis is already met then the system will automatically delete the oldest analysis. (NR3) (Med) (UC5)
+
 
