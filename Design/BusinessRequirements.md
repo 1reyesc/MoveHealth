@@ -1,11 +1,12 @@
 # Business Requirements
 
-**Improve MVP to bring a more effective utilization loop to advisors and staff.**
+**Enable Financial Advisors to better assist their clients with clear and easy to understand information about their health insurance.**
 - [BR1]
-- We have been granted a minimum viable product already. 
-  With this product we want to achieve improvements that will benefit the advisors engagement with the product. 
-  We believe that this is a business requirement because of value it can bring to the company. 
-  Time is a asset and when you can create shortcuts and bring a more effective style of tools to advisor you boost productivity.
+- The primary users of this product are Financial Advisors, who, in turn, serve their own clients.
+  The goal is to support Financial Advisors in helping their clients understand the details of their health insurance.
+  By developing new features and enhancing existing ones we can help Financial Advisors explain health insurance details in a clear, digestible manner for their clients.
+  We believe that this is a business requirement because the goal is to improve client understanding of insurance plans, thus adding value to both Advisors and their clients.
+  By creating tools to enable this we can build credibility in this domain and expand our user base with a trusted and valued service. 
 
 **Bring customers an inviting and friendly product that is not difficult to utilize and provides valuable information.**
 - [BR2]
