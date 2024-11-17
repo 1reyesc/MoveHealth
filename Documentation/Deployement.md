@@ -14,3 +14,18 @@
 
 ## Critical Place
 -  Making sure Auto Deploy is enabled makes sure that your webapp is updated automatically as soon as there are changes in your master branch
+
+# Replicating via Docker
+
+## Install Prerequisites
+- Download and Install Docker Desktop
+  - https://www.docker.com/products/docker-desktop
+  - Have up in running once installed 
+
+## Clone Repos 
+- clone repository in visual studio code
+  - https://github.com/Move-Health/move
+
+## Run
+- Run docker compose up --build for first time running
+- Run docker compose up for regular compose
