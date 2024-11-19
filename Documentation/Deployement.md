@@ -27,5 +27,5 @@
   - https://github.com/Move-Health/move
 
 ## Run
-- Run docker compose up --build for first time running
-- Run docker compose up for regular compose
+- Docker compose up --build for first time running
+- Docker compose up for regular compose
