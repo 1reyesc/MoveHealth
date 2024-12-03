@@ -32,8 +32,7 @@ The dashboard consists of the following sections:
    - View the history of all created analysts.
    - Delete, duplicate, or review any previously created analysis.
 
-![Screenshot 2024-11-06 234225](https://github.com/user-attachments/assets/9490be99-bb06-44a0-9fb0-917e9b305e8b)
-
+![image](https://github.com/user-attachments/assets/87bd1e99-1c11-4da4-812f-9668f2768331)
 ### Creating a New Insurance Analysis
 
 1. Click on the **Create New Analysis** button.
@@ -41,12 +40,20 @@ The dashboard consists of the following sections:
 3. Fill in the required information:
    - **Analysis Name**: Provide a name for your new analysis.
    - **Description**: Write a brief description of the analysis.
-4. Once you’ve entered the details, click on **Create Analysis**.
+4. Once you’ve entered the details, click on **Create Analysis**. It will save it to the database.
+5. You can go back time to the **Insurance AI Analysis** page  and look at the history of the past created analysis pages
+
+![image](https://github.com/user-attachments/assets/99acb627-88b2-427e-90f2-f29250229da3)
+
+![image](https://github.com/user-attachments/assets/e0eef107-92d1-430c-9f07-ed3a94d5140a)
+
+
+
+
+
 
    
-![Screenshot 2024-11-06 234201](https://github.com/user-attachments/assets/ad16ddb7-545e-47cc-bc8c-add82c8cf29e)
 
-![Screenshot 2024-11-06 234150](https://github.com/user-attachments/assets/2557214a-2a7b-4a38-8161-02c822983a84)
 
 ### Uploading Documents
 
