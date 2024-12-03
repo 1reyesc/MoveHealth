@@ -71,8 +71,15 @@ The dashboard consists of the following sections:
 - Ask questions related to the contents of the uploaded PDF.
 - The AI will analyze the document and provide responses based on the information available within it.
 
-![image](https://github.com/user-attachments/assets/9572d293-2bbd-42a8-837e-40b49c012477)
+![image](https://github.com/user-attachments/assets/7f7769bb-2193-4e0d-b039-70080e29e757)
 
+
+
+## OnBoarding Tutorial
+- What this does it shows  a tutorial of how to use the platform effectively.
+- If your are done with the tutorial you can minimize it on the bottom of the screen.
+  ![image](https://github.com/user-attachments/assets/765cc451-4ee3-4912-8d7e-32c6188974c8)
+  ![image](https://github.com/user-attachments/assets/46eba155-7aee-4975-aff5-633a813d0689)
 
 
 
