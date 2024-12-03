@@ -105,7 +105,11 @@
 -  <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/movehealth.png" width = "350">
   
 
-
-
-
+# Testing
+- Tests are located in the path test/unit
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/testPath.png" width = "350">
+- To run a specific test you run: rails test test/unit/name_of_test.rb
+- Example: run rails test test/unit/openai_mock.rb
+- Passing tests should look like this:
+- <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/testPass.png" width = "350">
 
