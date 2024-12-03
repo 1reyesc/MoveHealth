@@ -51,12 +51,12 @@ The dashboard consists of the following sections:
 ### Uploading Documents
 
 1. After creating the analyst, you will be taken to a page with an AI chat box.
-2. Use the **Upload Documentation** button to upload the PDF document you want the AI to analyze.
-   - Note: Only PDF files are accepted.
-3. Once the document is uploaded, you can type your questions into the AI chat box.
+2.  Use the *drag and drop* feature to upload the pdf document.
+3. Once the document is uploaded, it will print out a summary of it.
 
 
-![Screenshot 2024-11-06 234121](https://github.com/user-attachments/assets/2274091c-a2ed-48f3-96e2-5a45e091c398)
+![image](https://github.com/user-attachments/assets/f3da8d6c-8b22-45e7-9932-2abbaaa25add)
+
 
 
 ### Interacting with the AI Chat Box
@@ -64,6 +64,8 @@ The dashboard consists of the following sections:
 - Ask questions related to the contents of the uploaded PDF.
 - The AI will analyze the document and provide responses based on the information available within it.
 
-![Screenshot 2024-11-06 234136](https://github.com/user-attachments/assets/4370d998-301e-4a31-ab3b-df9592f0dc46)
+![image](https://github.com/user-attachments/assets/9572d293-2bbd-42a8-837e-40b49c012477)
+
+
 
 
