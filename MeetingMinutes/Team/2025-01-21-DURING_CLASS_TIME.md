@@ -1,4 +1,4 @@
-# Week of 9/30/2019 - 10/6/2019
+# Week of 01/19/2025 - 01/26/2025
 ## Meeting Start Time
 
 Section #1 9:30AM
