@@ -41,7 +41,7 @@ The dashboard consists of the following sections:
    - **Analysis Name**: Provide a name for your new analysis.
    - **Description**: Write a brief description of the analysis.
 4. Once you’ve entered the details, click on **Create Analysis**. It will save it to the database.
-5. You can go back time to the **Insurance AI Analysis** page  and look at the history of the past created analysis pages
+5. You can go back to the **Insurance AI Analysis** page  and look at the history of the past created analysis pages
 
 ![image](https://github.com/user-attachments/assets/99acb627-88b2-427e-90f2-f29250229da3)
 
@@ -77,13 +77,24 @@ The dashboard consists of the following sections:
 
 
 ## OnBoarding Tutorial
-- What this does it shows a tutorial of how to use the platform effectively.
+- What this does is show a tutorial of how to use the platform effectively.
 - It is conditional based on the page.
-- It only shows up the for first time users.
+- It only shows up  for first-time users.
   <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/dashboard.png" width = "700">
   <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/manage.png" width = "700">
   <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/estimator.png" width = "700">
   <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/analysis.png" width = "700">
+
+
+## Roth Conversion Calculator
+- This feature gives you an estimate of what your insurance may look like with a Roth conversion.
+- You will need to fill out all these parameters and afterwards click save and the results will show.
+![roth1](https://github.com/user-attachments/assets/6948bacd-b477-4a2c-a6f0-a90bd75882a5)
+![roth2](https://github.com/user-attachments/assets/7d13ddcf-a9fd-4051-8c8f-a14a04fa57d1)
+![roth3](https://github.com/user-attachments/assets/ad1851c9-5e11-495f-8de3-ce467f9c641b)
+
+
+
   
   
 
