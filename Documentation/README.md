@@ -10,7 +10,7 @@ Welcome to the project documentation for the MoveHealth Insurance AI Analyst fea
 2. [Development.md - Development Guide](./Development.md)
    - This document outlines the development process, including project structure, coding standards, and technical implementation details.
 
-3. [Deployement.md - Deployment Guide](./Deployement.md)  <!-- Check if this matches exactly with your file name in the repo -->
+3. [Deployement.md - Deployment Guide](./Deployment.md)  <!-- Check if this matches exactly with your file name in the repo -->
    - This guide provides instructions for deploying the MoveHealth Insurance AI Analyst feature, including setup requirements, installation steps, and troubleshooting tips.
 
 ## How to Access
