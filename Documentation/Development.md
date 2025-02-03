@@ -60,15 +60,17 @@
 ## Running dev
 **For Windows OS ONLY**
 - Before you can start up the rails application you will need to do a command: npm run dev
-- To successfully run this command you will need to do two things
+- To successfully run this command you will need to do three things
 - First, locate the package.json file
 - Once located find scripts and in the "dev" row you want to make sure it is: "cross-env NODE_OPTIONS=--openssl-legacy-provider bin/webpack-dev-server"
 - <img src="https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/crossenv.png" width="350">  
 - Second, run this command in the terminal: yarn add cross-env --dev
+- Third, run this command in the terminal: yarn add intro.js
 - Then in the Terminal run: npm run dev
   
  **ON MAC**
-- Just run this command in the Terminal: yarn
+- First run this command in the Terminal: yarn
+- Then, run this command in the terminal: yarn add intro.js
 - Let it run and then run the command: npm run dev
 
 ## Setting up Database
