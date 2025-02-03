@@ -62,7 +62,7 @@ The dashboard consists of the following sections:
 3. Once the document is uploaded, it will print out a summary of it.
 
 
-![image](https://github.com/user-attachments/assets/f3da8d6c-8b22-45e7-9932-2abbaaa25add)
+<img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/newSummary.png" width = "700">
 
 
 
@@ -71,15 +71,21 @@ The dashboard consists of the following sections:
 - Ask questions related to the contents of the uploaded PDF.
 - The AI will analyze the document and provide responses based on the information available within it.
 
-![image](https://github.com/user-attachments/assets/7f7769bb-2193-4e0d-b039-70080e29e757)
+![newOutput](https://github.com/user-attachments/assets/a2fa5eb1-29e9-4984-8c29-50d7184749da)
+
 
 
 
 ## OnBoarding Tutorial
-- What this does it shows  a tutorial of how to use the platform effectively.
-- If your are done with the tutorial you can minimize it on the bottom of the screen.
-  ![image](https://github.com/user-attachments/assets/765cc451-4ee3-4912-8d7e-32c6188974c8)
-  ![image](https://github.com/user-attachments/assets/46eba155-7aee-4975-aff5-633a813d0689)
+- What this does it shows a tutorial of how to use the platform effectively.
+- It is conditional based on the page.
+- It only shows up the for first time users.
+  <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/dashboard.png" width = "700">
+  <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/manage.png" width = "700">
+  <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/estimator.png" width = "700">
+  <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/analysis.png" width = "700">
+  
+  
 
 
 
