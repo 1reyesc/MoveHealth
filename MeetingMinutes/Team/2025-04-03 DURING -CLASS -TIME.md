@@ -18,7 +18,7 @@ Tobi, Caleb, Solomon, Cyarina, Mia
 
 ## Minute Recorder
 
-Solomon
+Mia 
 
 ## Topics Discussed
 - We discussed we more or less just discussed what we were planning on doing for the presentation poster. 
