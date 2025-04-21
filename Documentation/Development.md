@@ -114,4 +114,10 @@
 - Example: run rails test test/unit/openai_mock.rb
 - Passing tests should look like this:
 - <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/testPass.png" width = "350">
+## Frontend Testing
+- Will need to install some dependencies:
+- yarn add --dev identity-obj-proxy
+- yarn add --dev @testing-library/jest-dom
+- Afterwards run yarn jest and testing should look like this: ![frontendtesting](https://github.com/user-attachments/assets/4eae414d-396d-4e7b-97e0-4346d96d6ba4)
+
 
