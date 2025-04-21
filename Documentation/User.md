@@ -92,7 +92,10 @@ The dashboard consists of the following sections:
 ![roth1](https://github.com/user-attachments/assets/6948bacd-b477-4a2c-a6f0-a90bd75882a5)
 ![roth2](https://github.com/user-attachments/assets/7d13ddcf-a9fd-4051-8c8f-a14a04fa57d1)
 ![roth3](https://github.com/user-attachments/assets/ad1851c9-5e11-495f-8de3-ce467f9c641b)
+![graph](https://github.com/user-attachments/assets/3aa5e132-823d-45d6-8d1f-81e11f04f53a)
 <img src = "https://github.com/1reyesc/MoveHealth/blob/master/Auxiliary%20Files/roth_results_1.png" width = "700">
+
+
 
 
   
